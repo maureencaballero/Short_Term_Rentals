@@ -20,7 +20,7 @@ Years ago, I purchased and managed rental properties as an income stream. That w
 
 
 ## Minimally Viable Product (MVP)
-Will have Tableau presentation that answers the Data Questions, having used SQL to analyze data.
+Will have Tableau presentation that answers the Data Questions, having used Excel to analyze data.
 
 Schedule (through 1/7/2021)
 1.	Get the Data (Nov 13, 2020)
